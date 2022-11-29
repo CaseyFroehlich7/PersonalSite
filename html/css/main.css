@@ -1,0 +1,16 @@
+#mainHeader {
+  color: black;
+  font-size: 80px;
+  font-family: andalemono;
+}
+body {
+background: url("https://lh3.googleusercontent.com/Ejy6XiMOg21Rrb8pEFj5TH4KmMBTSG6AfTZGdU-pUH2NxnuiImyhYkHsyfbWsHf-lCg30IXZUtAsLNoryLg3KpWKeBKLXxVeiJjux8b7aNQ3RRaz02thYl14ed2SAaEXIEpIkZCYGw=w2400");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.aboutme {
+  font-size-adjust: auto;
+  font-style: oblique;
+
+}
